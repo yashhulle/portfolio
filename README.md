@@ -43,9 +43,8 @@ A modern and responsive personal portfolio website showcasing my projects, skill
 * Add resume download button
 * Improve UI with advanced layouts
 
-## 👨‍💻 Author
+## 👨‍💻 Author- Yash Hulle
 
-**Yash Hulle**
-📍 Pune, Maharashtra
-📧 yashhulle11@gmail.com
-🔗 linkedin.com/in/yash-hulle-270330379
+* 📍 Pune, Maharashtra
+* 📧 yashhulle11@gmail.com
+* 🔗 linkedin.com/in/yash-hulle-270330379
