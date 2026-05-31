@@ -4,7 +4,7 @@ A modern and responsive personal portfolio website showcasing my projects, skill
 
 ## 🚀 Live Demo
 
-..
+https://portfolio-yashh.netlify.app
 
 ## 📌 Features
 
